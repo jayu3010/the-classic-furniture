@@ -2,7 +2,7 @@ import type { NavLink } from "@/types";
 
 export const siteConfig = {
   name: "THE CLASSIC FURNITURE",
-  shortName: "Classic Furniture",
+  shortName: "THE Classic Furniture",
   tagline: "Crafted for the Way You Live",
   description:
     "Premium furniture showroom and manufacturer in Ahmedabad, Gujarat. Custom sofas, beds, dining tables, wardrobes and more — designed and crafted in our own workshop.",
